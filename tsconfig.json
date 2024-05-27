@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2017",
+    "declaration": true,
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "lib": [
+      "ES2021.String"
+    ]
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
